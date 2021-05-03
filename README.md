@@ -1,2 +1,2 @@
 # digitalAndCompSysArch
-MIPS code from Labs and Projects from CPE517 Spring 2021
+MIPS code and Labs and Projects from CPE517 Spring 2021
